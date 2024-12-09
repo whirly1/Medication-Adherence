@@ -18,11 +18,15 @@ npm i
 ```
 Rename the extension for server.md in backend folder to server.js
 
-# Add in Recepient email in empty string in ./frontend/src/pages/Chat.js
+Add in Recepient email in empty string in ./frontend/src/pages/Chat.js
+```shell
 const result = await fetchResponse(JSON.stringify(messages), "");
+```
 
-# Add in JSON patient profile in ./frontend/utils/api.js, ./frontend/utils/conversation_config.js and ./frontend/static/patientprofile.js
+Add in JSON patient profile in ./frontend/utils/api.js, ./frontend/utils/conversation_config.js and ./frontend/static/patientprofile.js
+```shell
 Include patient information like name, age, medications and medication information.
+```
 
 Make sure to have 2 terminals open for both the frontend and the backend:
 
