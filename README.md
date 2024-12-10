@@ -67,6 +67,6 @@ This project is built by the Digital Learning Team of the Lee Kong Chian School 
 - [openai-realtime-console](https://github.com/openai/openai-realtime-console)
 - Dr Ng Kian Bee
 - Ng Wee Herng / [LinkedIn](https://www.linkedin.com/in/ng-wee-herng-0b8888272/)
-- Bryan Tan Wen Tao / [LinkedIn](https://www.linkedin.com/in/bryan-tan-wen-tao-843b27272/)
+- Bryan Tan Wen Tao / [LinkedIn](https://www.linkedin.com/in/bryan-tan-wen-tao-843b27272/) / [bryan100805 on Github](https://github.com/bryan100805)
 - Thu Htet San / [LinkedIn](https://www.linkedin.com/in/thu-htet-san-733607169/)
 - Lai Kai Wen, Calvin / [LinkedIn](https://www.linkedin.com/in/calvin-lai-1865b9279/) / [Mystichunterz on Github](https://github.com/Mystichunterz)
